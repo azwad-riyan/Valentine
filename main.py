@@ -18,6 +18,7 @@ def yes_action():
 def no_action():
     """Function to be executed when the 'NO' button is clicked: PUNISHMENT! (Windows pop at once-ish)"""
     new_windows = []
+        """You could the value from below"""
     for _ in range(10):
         new_root = tk.Tk()
         new_root.title("Valentine?")
