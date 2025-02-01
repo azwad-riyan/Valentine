@@ -30,10 +30,10 @@ There are two ways to run this program, depending on your technical comfort leve
         *   Ensure you have `tkinter` installed. It's usually included with standard Python installations. If not, you can install it via pip: `pip install tk`
 
    *   **Steps:**
-        1.  Download the `valentine_popup_fixed_yes.py` file from this repository.
+        1.  Download the `main.py` file from this repository.
         2.  Open a terminal or command prompt.
         3.  Navigate to the directory where you saved the `.py` file using the `cd` command (e.g., `cd Downloads` if you saved it in your Downloads folder).
-        4.  Run the script using the command: `python valentine_popup_fixed_yes.py` (or `python3 valentine_popup_fixed_yes.py` depending on your Python setup).
+        4.  Run the script using the command: `python main.py` (or `python3 main.py` depending on your Python setup).
 
    *   The "Valentine?" window should appear!
 
@@ -44,7 +44,7 @@ There are two ways to run this program, depending on your technical comfort leve
    *   **Prerequisites:** None!  You just need a Windows computer.
 
    *   **Steps:**
-        1.  Download the `valentine.exe` file from the release section of this repository (if available) or from wherever you obtained it.
+        1.  Download the `valentine.exe` file from the [release section](https://github.com/azwad-riyan/Valentine/releases) of this repository (if available) or from wherever you obtained it.
         2.  Simply double-click the `valentine.exe` file.
 
    *   The "Valentine?" window should appear!
