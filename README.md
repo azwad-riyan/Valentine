@@ -9,7 +9,13 @@ This is a fun, slightly mischievous, and definitely unconventional Valentine's D
 
 **Warning:**  This program is meant to be lighthearted and fun.  Make sure the person you send it to has a good sense of humor and is comfortable with a little bit of digital trickery!  Sending "suspicious files" can be alarming in other contexts, so use this responsibly and with someone you know well.
 
+## It has two version:
+
+*   **Valentine**  If someone manage to press no it will open 100 new clone of that app as penalty.
+*   **Valentine Simple**  It doesn't have any penalty part, just simple yes/no.
+
 ## Features
+
 
 *   **The Big Question:**  Presents a clear and simple "Will you be my Valentine?" prompt in a window.
 *   **Evasive "NO" Button:**  The "NO" button is not so easily clicked! It dynamically moves away from the cursor, making it a fun challenge to even attempt to say "no".
