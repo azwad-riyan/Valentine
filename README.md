@@ -11,8 +11,8 @@ This is a fun, slightly mischievous, and definitely unconventional Valentine's D
 
 ## It has two version:
 
-*   **Valentine**  If someone manage to press no it will open 100 new clone of that app as penalty.
-*   **Valentine Simple**  It doesn't have any penalty part, just simple yes/no.
+*   **Valentine:**  If someone manage to press no it will open 100 new clone of that app as penalty.
+*   **Valentine Simple:**  It doesn't have any penalty part, just simple yes/no.
 
 ## Features
 
